@@ -1,5 +1,3 @@
 function obtenerNombre() {
-  return 'Eric';
+    return "Sai";
 }
-
-module.exports = obtenerNombre;
